@@ -8,7 +8,7 @@ The purpose of this project was to create the foundations of a cybersecurity lab
 
 **Cybersecurity Lab in the Virtual Environment** Contains the various components, services and tools that were downloaded, installed, and configured to create the cybersecurity lab. This includes Snort (IPS), Suricata (IDS), Security Onion (SIEM), pfSense (firewall), Kali Linux (attack machine), Metaspoiltable 2 (target machine) and Ubuntu (the LinuxOS for the workstations, server, IPS, IDS and SIEM.
 
-[Watch a Video of Me SSH-ing and Adding Files Between Workstations! 👩🏽‍💻 ](https://drive.google.com/file/d/12PJfjlKgD52L-fcegIMuijqrzhA6-gfP/view?usp=share_link)
+[Watch a Video of Me SSH-ing and Adding Files Between Workstations! 👩🏽‍💻 ](https://drive.google.com/file/d/1FbvE1YQ9c1h2CzQY_sOI5iMOJtFu5sXz/view?usp=sharing)
 
 **Phase One Project Paper** This paper dicusses and describes the various cybersecurity components (services and tools) that make up this security lab. This paper seeks to answer the following questions: What are these tools and services that were utilize in the lab? Why are they important in the cybersecurity industry?
 
