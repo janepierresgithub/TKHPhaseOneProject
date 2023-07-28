@@ -4,7 +4,7 @@ The purpose of this project was to create the foundations of a cybersecurity lab
 
 **Topology: Networking Diagram.** A topology in Cisco Packet Tracer, displaying the layout and design of the cybersecurity lab setup. Included are workstations, a server, firewall, IDS, IPS, SIEM, attack and target machines.
 
-![Cybersecurity Lab Topology](https://github.com/jjperipheral/tkh_if_cs_phase1_project/blob/60cff9e29e2c96e85d0c29a9a4bb08291f2921d5/tkh_if_cse_p1_end_project_topology(pierre_jane).png)
+![Cybersecurity Lab Topology](https://github.com/jjperipheral/TKHPhaseOneProject/blob/main/phaseonetopography.jpg)
 
 **Cybersecurity Lab in the Virtual Environment.** Contains the various components, services and tools that were downloaded, installed, and configured to create the cybersecurity lab. This includes Snort (IPS), Suricata (IDS), Security Onion (SIEM), pfSense (firewall), Kali Linux (attack machine), Metaspoiltable 2 (target machine) and Ubuntu (the LinuxOS for the workstations, server, IPS, IDS and SIEM.
 
