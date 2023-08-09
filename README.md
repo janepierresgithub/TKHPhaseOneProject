@@ -6,10 +6,10 @@ Stemming from the learnings of Linux Terminal Operations, Networking Fundamental
 
 ![Cybersecurity Lab Topology](https://github.com/jjperipheral/TKHPhaseOneProject/blob/main/phaseonetopography.jpg)
 
-**Cybersecurity Lab in the Virtual Environment.** Contains the various components, services and tools that were downloaded, installed, and configured to create the cybersecurity lab. This includes Snort (IPS), Suricata (IDS), Security Onion (SIEM), pfSense (firewall), Kali Linux (attack machine), Metaspoiltable 2 (target machine) and Ubuntu (the LinuxOS for the workstations, server, IPS, IDS and SIEM.
+**Cybersecurity Lab in the Virtual Environment.** Leveraging the power of virtualization, a cybersecurity lab was set up containing the various components, services and tools that were downloaded, installed, and configured. This includes Snort (IPS), Suricata (IDS), Security Onion (SIEM), pfSense (firewall), Kali Linux (attack machine), Metaspoiltable 2 (target machine) and Ubuntu (the LinuxOS for the workstations, server, IPS, IDS and SIEM.
 
-[Watch a Video of Me SSH-ing and Adding Files Between Workstations! 👩🏽‍💻 ](https://drive.google.com/file/d/12PJfjlKgD52L-fcegIMuijqrzhA6-gfP/view?usp=sharing)
+[Watch a Video of Me SSH-ing and Adding Files Between Workstations in the VM Lab Environment! 👩🏽‍💻 ](https://drive.google.com/file/d/12PJfjlKgD52L-fcegIMuijqrzhA6-gfP/view?usp=sharing)
 
-**Phase One Project Paper.** This paper dicusses and describes the various cybersecurity components (services and tools) that make up this security lab. This paper seeks to answer the following questions: What are these tools and services that were utilize in the lab? Why are they important in the cybersecurity industry?
+**Phase One Project Paper.** To provide clarity and depth, this accompanying paper offers insights and explanations into the various tools and components that were downloaded, installed, and configured for the development of this cybersecurity lab. 
 
 [Phase One Project Paper 📃](https://github.com/jjperipheral/tkh_if_cs_phase1_project/blob/main/tkh_if_cse_p1_end_project_paper(pierre_jane).pdf)
