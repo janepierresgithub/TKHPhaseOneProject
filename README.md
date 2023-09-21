@@ -12,4 +12,4 @@ Stemming from the learnings of Linux Terminal Operations, Networking Fundamental
 
 **Phase One Project Paper.** To provide clarity and depth, this accompanying paper offers insights and explanations into the various tools and components that were downloaded, installed, and configured for the development of this cybersecurity lab. 
 
-[Phase One Project Paper 📃](https://github.com/janepierresgithub/tkh_if_cs_phase1_project/blob/main/tkh_if_cse_p1_end_project_paper(pierre_jane).pdf)
+[Phase One Project Paper 📃](https://github.com/janepierresgithub/TKHPhaseOneProject/blob/main/tkh_if_cse_p1_end_project_paper(pierre_jane).pdf)
