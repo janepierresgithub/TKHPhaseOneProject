@@ -6,10 +6,8 @@ Stemming from the learnings of Linux Terminal Operations, Networking Fundamental
 
 ![Cybersecurity Lab Topology](https://github.com/janepierresgithub/TKHPhaseOneProject/blob/main/phaseonetopography.jpg)
 
-**Cybersecurity Lab in the Virtual Environment.** Leveraging the power of virtualization, a cybersecurity lab was set up containing the various components, services and tools that were downloaded, installed, and configured. This includes Snort (IPS), Suricata (IDS), Security Onion (SIEM), pfSense (firewall), Kali Linux (attack machine), Metaspoiltable 2 (target machine) and Ubuntu (the LinuxOS for the workstations, server, IPS, IDS and SIEM.
+**[Cybersecurity Lab in the Virtual Environment. 👩🏽‍💻 ](https://drive.google.com/file/d/12PJfjlKgD52L-fcegIMuijqrzhA6-gfP/view?usp=sharing)** Leveraging the power of virtualization, a cybersecurity lab was set up containing the various components, services and tools that were downloaded, installed, and configured. This includes Snort (IPS), Suricata (IDS), Security Onion (SIEM), pfSense (firewall), Kali Linux (attack machine), Metaspoiltable 2 (target machine) and Ubuntu (the LinuxOS for the workstations, server, IPS, IDS and SIEM.
 
-[Watch a Video of Me SSH-ing and Adding Files Between Workstations in the VM Lab Environment! 👩🏽‍💻 ](https://drive.google.com/file/d/12PJfjlKgD52L-fcegIMuijqrzhA6-gfP/view?usp=sharing)
+**[Phase One Project Paper. 📃](https://github.com/janepierresgithub/TKHPhaseOneProject/blob/main/tkh_if_cse_p1_end_project_paper(pierre_jane).pdf)** To provide clarity and depth, this accompanying paper offers insights and explanations into the various tools and components that were downloaded, installed, and configured for the development of this cybersecurity lab. 
 
-**Phase One Project Paper.** To provide clarity and depth, this accompanying paper offers insights and explanations into the various tools and components that were downloaded, installed, and configured for the development of this cybersecurity lab. 
 
-[Phase One Project Paper 📃](https://github.com/janepierresgithub/TKHPhaseOneProject/blob/main/tkh_if_cse_p1_end_project_paper(pierre_jane).pdf)
