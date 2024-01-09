@@ -1,4 +1,4 @@
-# Phase One Project
+# <p align="center"> Phase One Project <p align="center">
 
 Stemming from the learnings of Linux Terminal Operations, Networking Fundamentals, and other integral cybersecurity concepts, this project's goal was to craft the foundations of a rudimentary yet robust cybersecurity lab.  The project comprised three elements: the creation of a cybersecurity lab within a virtual machine environment, the design of the lab's network topology, and a paper explaining the components and tools downloaded, installed, and configured for the cybersecurity lab's development.
 
